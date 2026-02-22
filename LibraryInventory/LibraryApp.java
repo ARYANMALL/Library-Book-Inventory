@@ -1,3 +1,4 @@
+package LibraryInventory;
 import java.util.Scanner;
 
 public class LibraryApp {

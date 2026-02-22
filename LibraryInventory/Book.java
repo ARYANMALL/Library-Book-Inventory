@@ -1,3 +1,4 @@
+package LibraryInventory;
 public class Book {
     private String id;
     private String title;
@@ -50,4 +51,5 @@ public class Book {
     public void setAuthor(String author) {
         this.author = author;
     }
+
 }
